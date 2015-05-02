@@ -1,9 +1,6 @@
 # meteor-squel
-Meteor package for the squel js package for SQL
 
-## Description
-
-A Meteor smart package for the Squel JS package for working with SQL statements.
+A Meteor smart package for Squel node package. Utility for working with SQL statements.
 
 https://hiddentao.github.io/squel/
 
